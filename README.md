@@ -32,3 +32,18 @@ Este proyecto consiste en una simulación de una máquina tragamonedas (Slot Mac
 ✅ Código secreto para administrador  
 
 ---
+
+# 📂 Estructura del proyecto
+
+proyacto/
+│
+├── Main.java
+├── Jugador.java
+├── ArchivoCSV.java
+├── SlotMachine.java
+└── Utils.java
+
+---
+
+#Diapositiva
+"Insertar diapositiva"
