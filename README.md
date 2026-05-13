@@ -75,7 +75,7 @@ proyecto/
 ├── SlotMachine.java
 └── Utils.java
 
-
+---
 
 ## 📚 Diapositivas
 * https://canva.link/cxin4zrvwwlw5ss
