@@ -2,39 +2,71 @@
 
 # 🎰 SLOT MACHINE - JAVA 🎰
 
-Proyecto final de Lógica de Programación desarrollado en Java.
+## 📌 Descripción
 
-Este proyecto consiste en una simulación de una máquina tragamonedas (Slot Machine) ejecutada en consola, utilizando matrices, archivos CSV, métodos, clases y lógica de programación.
+Este proyecto consiste en el desarrollo de una **máquina tragamonedas en consola** creada en **Java** como proyecto final de Lógica de Programación.
 
----
+A lo largo del proyecto se implementan conceptos fundamentales como el uso de **matrices**, **clases**, **métodos**, **archivos CSV**, **ciclos**, **condicionales** y manejo de datos en consola.
 
-# 👨‍💻 Integrantes
+La tragamonedas simula el funcionamiento de una máquina arcade clásica, permitiendo a los jugadores iniciar sesión, realizar apuestas, girar la máquina y ganar premios mediante combinaciones y diagonales ganadoras.
 
-- Samuel Campo
-- Mariana Parra
-- Andreina Garro
+El objetivo principal es fortalecer la lógica de programación mediante un proyecto completo e interactivo desarrollado completamente en consola.
 
 ---
 
-# 📌 Características del proyecto
+## 🎯 Objetivos del proyecto
 
-✅ Inicio de sesión de jugadores  
-✅ Guardado automático de saldo usando CSV  
-✅ Sistema de apuestas  
-✅ Máquina tragamonedas con matriz 3x3  
-✅ Símbolos aleatorios  
-✅ Detección de líneas ganadoras  
-✅ Diagonales ganadoras  
-✅ Multiplicadores de premio    
-✅ ASCII Art estilo arcade  
-✅ Animación de giro  
-✅ Sistema de "Inspriración"  
-✅ Código secreto para administrador  
+* Implementar una tragamonedas funcional en Java.
+* Aplicar el uso de **matrices 3x3** para representar la máquina.
+* Utilizar **archivos CSV** para guardar información de jugadores.
+* Desarrollar lógica para apuestas y cálculo de premios.
+* Implementar combinaciones y diagonales ganadoras.
+* Mejorar el manejo de clases, métodos y estructuras de control.
+* Crear una experiencia visual estilo arcade usando ASCII Art.
 
 ---
 
-# 📂 Estructura del proyecto
+## 👩‍💻 Integrantes
 
+* Samuel Campo
+* Mariana Parra
+* Andreina Garro
+
+---
+
+## ⚙️ Tecnologías utilizadas
+
+* Java ☕
+* Git
+* GitHub
+* Visual Studio Code
+* Archivos CSV
+
+---
+
+## 📋 Funcionalidades del proyecto
+
+El proyecto incluye las siguientes características:
+
+1. **Inicio de sesión de jugadores**
+2. **Guardado automático de saldo**
+3. **Sistema de apuestas**
+4. **Máquina tragamonedas con matriz 3x3**
+5. **Generación aleatoria de símbolos**
+6. **Animación de giro**
+7. **Detección de líneas ganadoras**
+8. **Detección de diagonales ganadoras**
+9. **Sistema de multiplicadores**
+10. **ASCII Art estilo arcade**
+11. **Sistema de inspiración**
+12. **Código secreto para administrador**
+13. **Persistencia de datos usando CSV**
+
+---
+
+## 📂 Estructura del proyecto
+
+```bash
 proyecto/
 │
 ├── Main.java
@@ -42,9 +74,6 @@ proyecto/
 ├── ArchivoCSV.java
 ├── SlotMachine.java
 └── Utils.java
-
----
-
 # DIAPOSITIVAS
 
 "Insertar diapositiva"
