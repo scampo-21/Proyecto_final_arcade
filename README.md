@@ -45,5 +45,6 @@ proyecto/
 
 ---
 
-#Diapositiva
+# DIAPOSITIVAS
+
 "Insertar diapositiva"
