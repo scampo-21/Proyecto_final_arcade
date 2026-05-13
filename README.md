@@ -35,7 +35,7 @@ Este proyecto consiste en una simulación de una máquina tragamonedas (Slot Mac
 
 # 📂 Estructura del proyecto
 
-proyacto/
+proyecto/
 │
 ├── Main.java
 ├── Jugador.java
