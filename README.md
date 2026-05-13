@@ -1,6 +1,6 @@
-# Proyecto_final_arcade
+## Proyecto_final_arcade
 
-# 🎰 SLOT MACHINE - JAVA 🎰
+## 🎰 SLOT MACHINE - JAVA 🎰
 
 ## 📌 Descripción
 
