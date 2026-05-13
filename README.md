@@ -63,7 +63,10 @@ El proyecto incluye las siguientes características:
 13. **Persistencia de datos usando CSV**
 
 ---
+## 📚 Diapositivas 
+* https://canva.link/cxin4zrvwwlw5ss
 
+---
 ## 📂 Estructura del proyecto
 
 ```bash
@@ -74,8 +77,3 @@ proyecto/
 ├── ArchivoCSV.java
 ├── SlotMachine.java
 └── Utils.java
-
----
-
-## 📚 Diapositivas
-* https://canva.link/cxin4zrvwwlw5ss
