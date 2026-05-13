@@ -74,6 +74,8 @@ proyecto/
 ├── ArchivoCSV.java
 ├── SlotMachine.java
 └── Utils.java
-# DIAPOSITIVAS
 
-"Insertar diapositiva"
+
+
+## 📚 Diapositivas
+* https://canva.link/cxin4zrvwwlw5ss
