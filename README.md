@@ -64,7 +64,7 @@ El proyecto incluye las siguientes características:
 
 ---
 ## 📚 Diapositivas 
-* https://canva.link/cxin4zrvwwlw5ss
+https://canva.link/6cs5b8u0maw20r3 
 
 ---
 ## 📂 Estructura del proyecto
